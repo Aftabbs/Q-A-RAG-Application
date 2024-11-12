@@ -1,5 +1,5 @@
 # Q&A RAG Application
-                     
+                                        
 ![image](https://github.com/user-attachments/assets/b2a35f30-9601-4499-aab0-acd75750d4e7)                  
      
 ## Overview
