@@ -8,7 +8,7 @@ This project is a Q&A Retrieval-Augmented Generation (RAG) application that util
 ## Features
 - **PDF Upload**: Users can upload PDF documents to the application.     
 - **Question Answering**: The application answers questions based on the content of the uploaded PDF.
-- **High Performance**: Leveraging Nvidia Nim API for fast and efficient processing.
+- **High Performance**: Leveraging Nvidia Nim API for fast and efficient processing.                  
        
 ## Libraries and Technologies Used
 - **fitz**: For handling PDF documents.
