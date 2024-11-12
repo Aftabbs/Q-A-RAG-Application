@@ -4,7 +4,7 @@
 
 ## Overview
 This project is a Q&A Retrieval-Augmented Generation (RAG) application that utilizes Nvidia Nim API-Key for enhanced performance. The application is designed to handle PDF documents, allowing users to upload a PDF and retrieve answers based on their questions. The application uses advanced machine learning and natural language processing techniques to provide accurate and quick responses.
-
+     
 ## Features
 - **PDF Upload**: Users can upload PDF documents to the application.
 - **Question Answering**: The application answers questions based on the content of the uploaded PDF.
