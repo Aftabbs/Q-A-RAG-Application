@@ -1,7 +1,7 @@
 # Q&A RAG Application
 
 ![image](https://github.com/user-attachments/assets/b2a35f30-9601-4499-aab0-acd75750d4e7)                  
-
+     
 ## Overview
 This project is a Q&A Retrieval-Augmented Generation (RAG) application that utilizes Nvidia Nim API-Key for enhanced performance. The application is designed to handle PDF documents, allowing users to upload a PDF and retrieve answers based on their questions. The application uses advanced machine learning and natural language processing techniques to provide accurate and quick responses.
      
